@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="195" viewBox="0 0 330 195">
+  <rect x="1" y="1" width="328" height="193" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <text x="25" y="38" fill="#58a6ff" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="600">GamePatchHub88 - GitHub Stats</text>
+  <text x="25" y="78" fill="#c9d1d9" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="14">Public Repos</text>
+  <text x="300" y="78" fill="#ffffff" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="end">0</text>
+  <text x="25" y="106" fill="#c9d1d9" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="14">Total Stars</text>
+  <text x="300" y="106" fill="#ffffff" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="end">0</text>
+  <text x="25" y="134" fill="#c9d1d9" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="14">Total Forks</text>
+  <text x="300" y="134" fill="#ffffff" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="end">0</text>
+  <text x="25" y="162" fill="#c9d1d9" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="14">Followers</text>
+  <text x="300" y="162" fill="#ffffff" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="end">0</text>
+
+</svg>

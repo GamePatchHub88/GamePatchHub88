@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195">
+  <rect x="1" y="1" width="348" height="193" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <text x="25" y="38" fill="#58a6ff" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="600">Top Languages (JS / TS / PY)</text>
+  <text x="25" y="70" fill="#c9d1d9" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="14">JavaScript</text>
+  <text x="325" y="70" fill="#8b949e" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="13" text-anchor="end">0.0%</text>
+  <rect x="25" y="78" width="300" height="8" rx="4" fill="#21262d"/>
+  <rect x="25" y="78" width="0" height="8" rx="4" fill="#f1e05a"><animate attributeName="width" from="0" to="0.0" dur="1.2s" fill="freeze"/></rect>
+  <text x="25" y="106" fill="#c9d1d9" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="14">TypeScript</text>
+  <text x="325" y="106" fill="#8b949e" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="13" text-anchor="end">0.0%</text>
+  <rect x="25" y="114" width="300" height="8" rx="4" fill="#21262d"/>
+  <rect x="25" y="114" width="0" height="8" rx="4" fill="#3178c6"><animate attributeName="width" from="0" to="0.0" dur="1.2s" fill="freeze"/></rect>
+  <text x="25" y="142" fill="#c9d1d9" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="14">Python</text>
+  <text x="325" y="142" fill="#8b949e" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="13" text-anchor="end">0.0%</text>
+  <rect x="25" y="150" width="300" height="8" rx="4" fill="#21262d"/>
+  <rect x="25" y="150" width="0" height="8" rx="4" fill="#4b8bbe"><animate attributeName="width" from="0" to="0.0" dur="1.2s" fill="freeze"/></rect>
+
+</svg>
